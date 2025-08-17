@@ -13,6 +13,8 @@
 
 ---
 
+🔗 **Live App:** [Operation Scheduler](https://operation-scheduler-1.onrender.com)  
+
 ## 🎥 Demo Video
 
 👉 [Click here to watch the demo on Loom](https://www.loom.com/share/a5881bbc88a64b76a3122f248bd2af19?sid=7daedca7-bd8c-4a8d-9b23-54aa56b91fa8)
