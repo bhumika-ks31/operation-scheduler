@@ -1,6 +1,7 @@
 import home1 from "../assets/Home.jpg";
 import home2 from "../assets/Home1.jpg";
 import home3 from "../assets/Home2.jpg";
+import heroImage from "../assets/Hero.jpg";
 
 export default function Home() {
   return (
