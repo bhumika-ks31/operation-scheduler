@@ -49,7 +49,7 @@ const Appointment = () => {
     e.preventDefault();
 
     try {
-      await axios.post("http://localhost:5000/api/appointment", formData);
+      await axios.post("https://operation-scheduler.onrender.com/api/appointment", formData);
       alert("✅ Appointment booked successfully!");
       setFormData({
         name: "",
